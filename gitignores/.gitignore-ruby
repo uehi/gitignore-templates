@@ -1,0 +1,32 @@
+##### Windows #####
+Thumbs.db
+
+##### MAC #####
+.DS_Store
+
+##### Eclipse #####
+/.cache
+.project
+/.settings
+.buildpath
+
+##### Netbeans #####
+nbproject/*
+
+##### Ruby on Rails #####
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html

@@ -1,0 +1,17 @@
+##### Windows #####
+Thumbs.db
+
+##### MAC #####
+.DS_Store
+
+##### Eclipse #####
+/.cache
+.project
+/.settings
+.buildpath
+
+##### Titanium Mobile #####
+tmp
+build/*
+build.log
+*.swp
